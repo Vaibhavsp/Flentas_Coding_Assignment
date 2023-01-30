@@ -22,13 +22,13 @@ int main()
             }
             if (count == s.length())
             {
-                cout<<"YES";
+                cout<<"YES"<<endl;
                 break;
             }
         }
         if (count < s.length())
         {
-            cout<<"NO";
+            cout<<"NO"<<endl;
         }
     }
 }
